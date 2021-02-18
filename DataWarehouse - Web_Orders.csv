@@ -1,4 +1,4 @@
-"ID","INV","DATA","CATALOG","PCODE","QTY","custnum","custname","TYPE"
+"ID","INV","DATA","CATALOG","PCODE","QTY","custnum","custname",,"TYPE"
 1,2513000,17/12/2000',Gardening,GD3200,3,NULL,Rifkin,Mr. Bob',Web'
 2,2513000,6/1/2001',Pets,PT1400,1,NULL,Rifkin,Mr. Bob',Web'
 3,2513000,6/1/2001',Pet,PT2000,1,NULL,Rifkin,Mr. Bob',Web'
